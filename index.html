@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>pavel</title>
+<style>
+body{margin:0;padding:0;width:70%;}
+h1,h2,h3,h4{display:inline;font-size:inherit;}
+table{border-spacing:0;}
+th,td{text-align:left;padding:0 1.5em 1em 0;font-weight:inherit;}
+ul{margin:0;padding:0;}
+li{list-style-type:none;margin-bottom:.5em;display:inline;}
+/* li:before{content:'> ';} */
+a{color:blue;text-decoration: none;border-bottom:1px solid blue;}
+#img{
+background: url('pavel.png') no-repeat 100% 0;
+width: 300px;
+height: 268px;
+position: fixed;
+bottom: 0;
+left: 3em;
+}
+#w{font:1.5em monospace;margin:3em 3em;}
+#blog{margin-top:250px;margin-bottom:1000px;font-size:.5em;}
+#foot{margin-bottom:268px;}
+.post .title{display:inline-block;margin-bottom:1em;font-size:16px;}
+</style>
+  <script src="/js/postscribe.2.0.8.min.js"></script>
+  <script type="text/javascript">
+    function read(el,url) {
+      // gist
+      if (url.match(/\.js$/)) {
+        postscribe(el.parentNode, '<script src=' + url + '><\/script>');
+        el.onclick = null;
+      }
+      else {
+        window.location.href = url;
+      }
+
+      return false;
+    }
+  </script>
+</head>
+<body>
+
+<div id="img"></div>
+
+<div id="w">
+  <p><small>Connection established..</small></p>
+  <p>% w</p>
+<table>
+<tr><th>user<th>tty<th>from<th>login@<th>what</tr>
+<tr>
+<td><h1><a href="https://twitter.com/intent/user?screen_name=paveljurca">Pavel</a></h1>
+<td>:80<td>Prague,CZ<td>2days<td>perl&nbsp;-pE'...'&lt;&lt;<a href="#blog">#blog</a>
+</tr>
+</table>
+
+  <div id="blog">
+
+    <div id="1" class="post">
+      <p class="timestamp">Nov 15, 2016</p>
+      <div class="gist"><a class="title" href="#1" onclick="read(this,'https://gist.github.com/paveljurca/7263fd17d53a3fddfbcb669b54f008ab.js')">Scrape Bandcamp album</a></div>
+    </div>
+  
+  </div>
+
+
+  <div id="foot">&nbsp;</div>
+</div>
+</body>
+</html>

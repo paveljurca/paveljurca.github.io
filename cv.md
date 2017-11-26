@@ -34,8 +34,8 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/timetables](https://github.com/paveljurca/timetables))
   * Debugging software, ovladačů, aktualizací
-  * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí)
-  * Data a boot recovery, FFmpeg, Mojo::DOM, Wordpress, IIS URL Rewrite, VMWare vSphere
+  * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
+  * FFmpeg, Mojo::DOM, Wordpress, IIS URL Rewrite, VMWare vSphere
 
 * __2014 — 2015  
 Audiovizuální centrum, Vysoká škola ekonomická v Praze__

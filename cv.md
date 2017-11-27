@@ -26,7 +26,7 @@ Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET
 * __2016 — nyní  
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Migrace a správa serverové infrastruktury Mediasite (Sonic Foundry)
-  * Návrh a vývoj SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast) [..])
+  * Návrh a vývoj podpůrného SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast) [..])
   * Psaní deployment skriptů
   * Podpora 2. a 3. úrovně
 
@@ -35,7 +35,7 @@ Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/timetables](https://github.com/paveljurca/timetables))
   * Debugging software, ovladačů, aktualizací
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
-  * FFmpeg, Mojo::DOM, Wordpress, IIS URL Rewrite, VMWare vSphere
+  * Využití mnoha nástrojů: FFmpeg, Mojo::DOM, Wordpress, IIS URL Rewrite, VMWare vSphere [..]
 
 * __2014 — 2015  
 Audiovizuální centrum, Vysoká škola ekonomická v Praze__
@@ -64,10 +64,14 @@ Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 
 * __2008 — 2012  
 Soukromá střední škola výpočetní techniky, Praha 9, Litvínovská 600__
-  * maturita (programování, počítačové sítě, grafické systémy)
+  * maturita (programování, počítačové sítě, grafické systémy, [github.com/paveljurca/school](https://github.com/paveljurca/school))
 
 * __2012 — 2014 (ukončeno)  
 Vysoká škola ekonomická v Praze, Aplikovaná informatika__
   * Základy softwarového inženýrství ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
   * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
   * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/animals](https://github.com/paveljurca/animals), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
+
+# Další
+
+  * [awesomeschool.cc](http://awesomeschool.cc/), KB, links, quotes, books list, vulgo.cz, medium, bandcamp, vimeo

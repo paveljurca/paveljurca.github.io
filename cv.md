@@ -27,7 +27,7 @@ Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Migrace a správa serverové infrastruktury Mediasite (Sonic Foundry)
   * Návrh a vývoj podpůrného SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast) [..])
-  * Psaní deployment skriptů
+  * Tvorba deployment skriptů
   * Podpora 2. a 3. úrovně
 
 * __2015 — 2016  
@@ -35,7 +35,7 @@ Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/timetables](https://github.com/paveljurca/timetables))
   * Debugging software, ovladačů, aktualizací
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
-  * Využití mnoha nástrojů: FFmpeg, Mojo::DOM, Wordpress, IIS URL Rewrite, VMWare vSphere [..]
+  * Využití nástrojů: FFmpeg, Mojo::DOM, cURL, PsTools, IIS URL Rewrite, VMWare vSphere, GParted, RTMPDump [..]
 
 * __2014 — 2015  
 Audiovizuální centrum, Vysoká škola ekonomická v Praze__

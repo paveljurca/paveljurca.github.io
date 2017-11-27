@@ -1,21 +1,21 @@
-Pavel Jurča  
-Oplanská 1862  
-19016&nbsp;&nbsp;Praha 9
-
 <!---
 media="print"
 .markdown-body h1 {font-size: 1.3em;}
 
+Oplanská 1862  
+19016&nbsp;&nbsp;Praha 9
+-->
+
+Pavel Jurča  
 Technical Support Engineer
 ![foto](pavel.jpg)
-
-*Problems are to be solved.*
--->
 
 E [mailto@pavel.blog](mailto:mailto@pavel.blog)  
 T [(+420) 607204364](tel:00420607204364)
 
 <small>[gist.github.com/paveljurca](https://gist.github.com/paveljurca/public)&nbsp;&nbsp;[stackoverflow.com/users/1824796/pavel](https://stackoverflow.com/users/1824796/pavel?tab=activity)&nbsp;&nbsp;[twitter.com/paveljurca](https://twitter.com/intent/user?screen_name=paveljurca)</small>
+
+*Problems are to be solved.*
 
 # Dovednosti
 
@@ -26,7 +26,7 @@ Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET
 * __2016 — nyní  
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Migrace a správa serverové infrastruktury Mediasite (Sonic Foundry)
-  * Návrh a vývoj podpůrného SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast) [..])
+  * Návrh a vývoj podpůrného SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast), [github.com/paveljurca/live-content-import-fix](https://github.com/paveljurca/live-content-import-fix))
   * Tvorba deployment skriptů
   * Podpora 2. a 3. úrovně
 

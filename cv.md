@@ -26,8 +26,8 @@ Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET
 * __2016 — nyní  
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Migrace a správa serverové infrastruktury Mediasite (Sonic Foundry)
-  * Návrh a implementace podpůrného SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast) [..])
-  * Tvorba deployment skriptů
+  * Návrh a vývoj SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast) [..])
+  * Psaní deployment skriptů
   * Podpora 2. a 3. úrovně
 
 * __2015 — 2016  
@@ -65,13 +65,9 @@ Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 * __2008 — 2012  
 Soukromá střední škola výpočetní techniky, Praha 9, Litvínovská 600__
   * maturita (programování, počítačové sítě, grafické systémy)
-  * [github.com/paveljurca/school](https://github.com/paveljurca/school)
 
 * __2012 — 2014 (ukončeno)  
 Vysoká škola ekonomická v Praze, Aplikovaná informatika__
   * Základy softwarového inženýrství ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
   * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
   * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/animals](https://github.com/paveljurca/animals), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
-
-# Ostatní
-  * kb.pavel.blog, awesome-school

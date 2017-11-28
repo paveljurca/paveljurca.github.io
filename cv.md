@@ -28,7 +28,7 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Migrace a správa serverové infrastruktury Mediasite (Sonic Foundry)
   * Návrh a vývoj podpůrného SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast), [github.com/paveljurca/live-content-import-fix](https://github.com/paveljurca/live-content-import-fix))
   * Tvorba deployment skriptů
-  * Podpora 2. a 3. úrovně
+  * L2, L3 podpora (server offload, workery, školní IS, vzdálená správa [..])
 
 * __2015 — 2016  
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
@@ -71,7 +71,3 @@ Vysoká škola ekonomická v Praze, Aplikovaná informatika__
   * Základy softwarového inženýrství ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
   * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
   * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/animals](https://github.com/paveljurca/animals), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
-
-# Další
-
-  * [awesomeschool.cc](http://awesomeschool.cc/), KB, links, quotes, books list, vulgo.cz, medium, bandcamp, vimeo

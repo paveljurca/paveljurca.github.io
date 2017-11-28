@@ -6,9 +6,10 @@ Oplanská 1862
 19016&nbsp;&nbsp;Praha 9
 -->
 
+![foto](pavel.jpg)
+
 Pavel Jurča  
 Technical Support Engineer
-![foto](pavel.jpg)
 
 E [mailto@pavel.blog](mailto:mailto@pavel.blog)  
 T [(+420) 607204364](tel:00420607204364)
@@ -28,7 +29,7 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Migrace a správa serverové infrastruktury Mediasite (Sonic Foundry)
   * Návrh a vývoj podpůrného SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast), [github.com/paveljurca/live-content-import-fix](https://github.com/paveljurca/live-content-import-fix))
   * Tvorba deployment skriptů
-  * L2, L3 podpora (server offload, workery, školní IS, vzdálená správa [..])
+  * L2, L3 podpora (školní IS, server offload, workery [..])
 
 * __2015 — 2016  
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
@@ -47,7 +48,7 @@ Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 # Projekty
 
 * Virtuální realita (VR) ve výuce, doc. Klán FIS VŠE, 4/2017
-* Záznam, správa nahrávek, realizace webu, doc. Pinc FHS UK, 2016 ([oikumena.cz](http://oikumena.cz))
+* Záznam, správa nahrávek, realizace webu, doc. Pinc FHS UK, 2016 ([oikumena.cz](http://oikumena.cz), [github.com/paveljurca/oikumena](https://github.com/paveljurca/oikumena))
 * Rozvoj předmětu Digitální knihovny, PhDr. Pinkas FIS VŠE, 2016 ([irs4116.github.io](https://irs4116.github.io))
 
 # Další vzdělávání
@@ -64,7 +65,7 @@ Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 
 * __2008 — 2012  
 Soukromá střední škola výpočetní techniky, Praha 9, Litvínovská 600__
-  * maturita (programování, počítačové sítě, grafické systémy, [github.com/paveljurca/school](https://github.com/paveljurca/school))
+  * maturita (programování, počítačové sítě, grafické systémy)
 
 * __2012 — 2014 (ukončeno)  
 Vysoká škola ekonomická v Praze, Aplikovaná informatika__

@@ -20,23 +20,23 @@ T [(+420) 607204364](tel:00420607204364)
 
 # Dovednosti
 
-Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET, Perl, text processing, HTTP, html/css/js, JSON/XML, Gimp
+Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), Git, VB.NET, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Gimp
 
 # Praxe
 
 * __2016 — nyní  
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Migrace a správa serverové infrastruktury Mediasite (Sonic Foundry)
-  * Návrh a vývoj podpůrného SW ([github.com/paveljurca/mQuery](https://github.com/paveljurca/mQuery), [github.com/paveljurca/installed](https://github.com/paveljurca/installed), [github.com/paveljurca/vodcast](https://github.com/paveljurca/vodcast), [github.com/paveljurca/live-content-import-fix](https://github.com/paveljurca/live-content-import-fix))
+  * Návrh a vývoj podpůrného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/i](https://github.com/paveljurca/i), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/fix](https://github.com/paveljurca/fix))
   * Tvorba deployment skriptů
   * L2, L3 podpora (školní IS, server offload, workery [..])
+  * VMWare vSphere, IIS URL Rewrite, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
 
 * __2015 — 2016  
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
-  * Implementace rozvrhů pro informační displej ([github.com/paveljurca/timetables](https://github.com/paveljurca/timetables))
+  * Implementace rozvrhů pro informační displej ([github.com/paveljurca/t](https://github.com/paveljurca/t))
   * Debugging software, ovladačů, aktualizací
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
-  * Využití nástrojů: FFmpeg, Mojo::DOM, cURL, PsTools, IIS URL Rewrite, VMWare vSphere, GParted, RTMPDump [..]
 
 * __2014 — 2015  
 Audiovizuální centrum, Vysoká škola ekonomická v Praze__

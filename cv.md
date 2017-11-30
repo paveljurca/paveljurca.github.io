@@ -1,4 +1,4 @@
-<!---
+!---
 media="print"
 .markdown-body h1 {font-size: 1.3em;}
 
@@ -20,7 +20,7 @@ T [(+420) 607204364](tel:00420607204364)
 
 # Dovednosti
 
-Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git
+Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim
 
 # Praxe
 
@@ -30,7 +30,7 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Návrh a vývoj pomocného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/i](https://github.com/paveljurca/i), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/fix](https://github.com/paveljurca/fix))
   * Tvorba deployment skriptů
   * L2, L3 podpora (školní IS, server offload, workery, vzdálená konzole)
-  * VMWare vSphere, IIS URL Rewrite, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
+  * VMWare vSphere, IIS URL Rewrite, Developer Tools, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
 
 * __2015 — 2016  
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__

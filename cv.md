@@ -20,16 +20,16 @@ T [(+420) 607204364](tel:00420607204364)
 
 # Dovednosti
 
-Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), Git, VB.NET, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Gimp
+Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Git
 
 # Praxe
 
 * __2016 — nyní  
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
-  * Migrace a správa serverové infrastruktury Mediasite (Sonic Foundry)
-  * Návrh a vývoj podpůrného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/i](https://github.com/paveljurca/i), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/fix](https://github.com/paveljurca/fix))
+  * Migrace a správa serverové infrastruktury Mediasite / troubleshooting s konzultanty Sonic Foundry, US
+  * Návrh a vývoj pomocného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/i](https://github.com/paveljurca/i), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/fix](https://github.com/paveljurca/fix))
   * Tvorba deployment skriptů
-  * L2, L3 podpora (školní IS, server offload, workery [..])
+  * L2, L3 podpora (školní IS, server offload, workery, vzdálená konzole)
   * VMWare vSphere, IIS URL Rewrite, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
 
 * __2015 — 2016  
@@ -48,7 +48,7 @@ Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 # Projekty
 
 * Virtuální realita (VR) ve výuce, doc. Klán FIS VŠE, 4/2017
-* Záznam, správa nahrávek, realizace webu, doc. Pinc FHS UK, 2016 ([oikumena.cz](http://oikumena.cz), [github.com/paveljurca/oikumena](https://github.com/paveljurca/oikumena))
+* Záznam, správa nahrávek, realizace webu, doc. Pinc FHS UK, 2016 ([oikumena.cz](http://oikumena.cz), [github.com/paveljurca/o](https://github.com/paveljurca/o))
 * Rozvoj předmětu Digitální knihovny, PhDr. Pinkas FIS VŠE, 2016 ([irs4116.github.io](https://irs4116.github.io))
 
 # Další vzdělávání

@@ -1,9 +1,6 @@
 <!---
 media="print"
 .markdown-body h1 {font-size: 1.3em;}
-
-Oplanská 1862  
-19016&nbsp;&nbsp;Praha 9
 -->
 
 ![foto](pavel.jpg)
@@ -11,6 +8,8 @@ Oplanská 1862
 Pavel Jurča  
 Technical Support Engineer
 
+Oplanská 1862  
+19016&nbsp;&nbsp;Praha 9
 E [mailto@pavel.blog](mailto:mailto@pavel.blog)  
 T [(+420) 607204364](tel:00420607204364)
 
@@ -18,15 +17,15 @@ T [(+420) 607204364](tel:00420607204364)
 
 *Problems are to be solved.*
 
-# Dovednosti
+# Dovednosti / Skills
 
 Windows platforma (desktop/server), UNIX-like prostředí (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim
 
-# Praxe
+# Praxe / Work experience
 
 * __2016 — nyní  
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
-  * Migrace a správa serverové infrastruktury Mediasite (and dealing with overseas Sonic Foundry support)
+  * Migrace a správa serverové infrastruktury Mediasite (dealing with overseas support)
   * Návrh a vývoj pomocného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/i](https://github.com/paveljurca/i), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/fix](https://github.com/paveljurca/fix))
   * Tvorba deployment skriptů
   * L2, L3 podpora (školní IS, server offload, workery, vzdálená konzole)
@@ -36,7 +35,7 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/t](https://github.com/paveljurca/t))
   * Debugging software, ovladačů, aktualizací
-  * Troubleshooting webových aplikací
+  * Troubleshooting webových aplikací (multisite IIS instalace, jPlayer, MMS streams)
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
 
 * __2014 — 2015  
@@ -46,13 +45,13 @@ Audiovizuální centrum, Vysoká škola ekonomická v Praze__
 * __2013 — 2014  
 Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 
-# Projekty
+# Projekty / Projects
 
 * Virtuální realita (VR) ve výuce, doc. Klán FIS VŠE, 4/2017
 * Záznam, správa nahrávek, realizace webu, doc. Pinc FHS UK, 2016 ([oikumena.cz](http://oikumena.cz), [github.com/paveljurca/o](https://github.com/paveljurca/o))
 * Rozvoj předmětu Digitální knihovny, PhDr. Pinkas FIS VŠE, 2016 ([irs4116.github.io](https://irs4116.github.io))
 
-# Další vzdělávání
+# Další vzdělávání / Learning
 
 * CCNA Cisco Certified Network Associate, 2012
 * CCNA2: Routing and Switching, 2012
@@ -62,7 +61,7 @@ Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 * Startup Engineering ([startup.stanford.edu](http://startup.stanford.edu/)), 2013
 * TOEIC Listening & Reading, VŠE, 2014
 
-# Vzdělání
+# Vzdělání / Education
 
 * __2008 — 2012  
 Soukromá střední škola výpočetní techniky, Praha 9, Litvínovská 600__

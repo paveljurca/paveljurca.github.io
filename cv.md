@@ -1,4 +1,4 @@
-!---
+<!---
 media="print"
 .markdown-body h1 {font-size: 1.3em;}
 
@@ -20,22 +20,23 @@ T [(+420) 607204364](tel:00420607204364)
 
 # Dovednosti
 
-Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim
+Windows platforma (desktop/server), UNIX-like prostředí (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim
 
 # Praxe
 
 * __2016 — nyní  
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
-  * Migrace a správa serverové infrastruktury Mediasite / troubleshooting s konzultanty Sonic Foundry, US
+  * Migrace a správa serverové infrastruktury Mediasite (and dealing with overseas Sonic Foundry support)
   * Návrh a vývoj pomocného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/i](https://github.com/paveljurca/i), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/fix](https://github.com/paveljurca/fix))
   * Tvorba deployment skriptů
   * L2, L3 podpora (školní IS, server offload, workery, vzdálená konzole)
-  * VMWare vSphere, IIS URL Rewrite, Developer Tools, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
+  * VMWare vSphere, Developer Tools, IIS URL Rewrite, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
 
-* __2015 — 2016  
+* __2015 — nyní  
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/t](https://github.com/paveljurca/t))
-  * Debugging software, ovladačů, aktualizací a webových aplikací
+  * Debugging software, ovladačů, aktualizací
+  * Troubleshooting webových aplikací
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
 
 * __2014 — 2015  
@@ -65,7 +66,7 @@ Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 
 * __2008 — 2012  
 Soukromá střední škola výpočetní techniky, Praha 9, Litvínovská 600__
-  * maturita (programování, počítačové sítě, grafické systémy)
+  * maturita (programování, počítačové sítě, grafické systémy, MSSQL)
 
 * __2012 — 2014 (ukončeno)  
 Vysoká škola ekonomická v Praze, Aplikovaná informatika__

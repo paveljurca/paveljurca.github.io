@@ -1,21 +1,22 @@
 <!---
 media="print"
 .markdown-body h1 {font-size: 1.3em;}
+
+Technical Support Engineer
 -->
 
 ![foto](pavel.jpg)
 
 Pavel Jurča  
-Technical Support Engineer
-
 Oplanská 1862  
 19016&nbsp;&nbsp;Praha 9
+
 E [mailto@pavel.blog](mailto:mailto@pavel.blog)  
 T [(+420) 607204364](tel:00420607204364)
 
 <small>[gist.github.com/paveljurca](https://gist.github.com/paveljurca/public)&nbsp;&nbsp;[stackoverflow.com/users/1824796/pavel](https://stackoverflow.com/users/1824796/pavel?tab=activity)&nbsp;&nbsp;[twitter.com/paveljurca](https://twitter.com/intent/user?screen_name=paveljurca)</small>
 
-*I believe problems are the new solutions.*
+*Problems are often close to the solutions.*
 
 # Dovednosti / Skills
 
@@ -35,7 +36,7 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/t](https://github.com/paveljurca/t))
   * Debugging software, ovladačů, aktualizací
-  * Troubleshooting webových aplikací (multisite IIS instalace, jPlayer, MMS streams, FTP protokol)
+  * Troubleshooting webových aplikací (multisite IIS instalace, jPlayer, FTP syst)
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
 
 * __2014 — 2015  

@@ -15,7 +15,7 @@ T [(+420) 607204364](tel:00420607204364)
 
 <small>[gist.github.com/paveljurca](https://gist.github.com/paveljurca/public)&nbsp;&nbsp;[stackoverflow.com/users/1824796/pavel](https://stackoverflow.com/users/1824796/pavel?tab=activity)&nbsp;&nbsp;[twitter.com/paveljurca](https://twitter.com/intent/user?screen_name=paveljurca)</small>
 
-*Problems are to be solved.*
+*I believe problems are the new solutions.*
 
 # Dovednosti / Skills
 
@@ -35,7 +35,7 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/t](https://github.com/paveljurca/t))
   * Debugging software, ovladačů, aktualizací
-  * Troubleshooting webových aplikací (multisite IIS instalace, jPlayer, MMS streams)
+  * Troubleshooting webových aplikací (multisite IIS instalace, jPlayer, MMS streams, FTP protokol)
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
 
 * __2014 — 2015  

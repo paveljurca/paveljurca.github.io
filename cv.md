@@ -20,7 +20,7 @@ T [(+420) 607204364](tel:00420607204364)
 
 # Dovednosti
 
-Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Git
+Windows platforma (desktop/server), UNIX-like prostředí (shell, regex), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git
 
 # Praxe
 
@@ -35,7 +35,7 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
 * __2015 — 2016  
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/t](https://github.com/paveljurca/t))
-  * Debugging software, ovladačů, aktualizací
+  * Debugging software, ovladačů, aktualizací a webových aplikací
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
 
 * __2014 — 2015  

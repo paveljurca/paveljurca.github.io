@@ -16,11 +16,11 @@ T [(+420) 607204364](tel:00420607204364)
 
 <small>[gist.github.com/paveljurca](https://gist.github.com/paveljurca/public)&nbsp;&nbsp;[stackoverflow.com/users/1824796/pavel](https://stackoverflow.com/users/1824796/pavel?tab=activity)&nbsp;&nbsp;[twitter.com/paveljurca](https://twitter.com/intent/user?screen_name=paveljurca)</small>
 
-*Problems are often close to the solutions.*
+*There are no solved problems; there are only problems that are more or less solved [(Henri Poincaré)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9#Free_will)*
 
 # Dovednosti / Skills
 
-Windows platforma (desktop/server), UNIX-like prostředí (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim
+Windows platforma (desktop/server), UNIX-like prostředí (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim, Nagios
 
 # Praxe / Work experience
 
@@ -36,7 +36,7 @@ Odbor síťového provozu, Vysoká škola ekonomická v Praze__
 Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
   * Implementace rozvrhů pro informační displej ([github.com/paveljurca/t](https://github.com/paveljurca/t))
   * Debugging software, ovladačů, aktualizací
-  * Troubleshooting webových aplikací (multisite IIS instalace, jPlayer, FTP syst)
+  * Troubleshooting webových aplikací (multisite IIS instalace, IE8 base64, jPlayer, FTP syst)
   * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
 
 * __2014 — 2015  

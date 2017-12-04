@@ -73,3 +73,7 @@ Vysoká škola ekonomická v Praze, Aplikovaná informatika__
   * Základy softwarového inženýrství ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
   * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
   * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/animals](https://github.com/paveljurca/animals), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
+
+# Ostatní / Side projects
+
+* [pavel.blog/awesome-school](http://pavel.blog/awesome-school/), [kb.pavel.blog](http://kb.pavel.blog/)

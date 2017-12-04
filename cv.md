@@ -16,7 +16,7 @@ T [(+420) 607204364](tel:00420607204364)
 
 <small>[gist.github.com/paveljurca](https://gist.github.com/paveljurca/public)&nbsp;&nbsp;[stackoverflow.com/users/1824796/pavel](https://stackoverflow.com/users/1824796/pavel?tab=activity)&nbsp;&nbsp;[twitter.com/paveljurca](https://twitter.com/intent/user?screen_name=paveljurca)</small>
 
-*There are no solved problems; there are only problems that are more or less solved [(Henri Poincaré)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9#Free_will)*
+*"There are no solved problems; there are only problems that are more or less solved ([Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9#Free_will))"*
 
 # Dovednosti / Skills
 
@@ -52,16 +52,6 @@ Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
 * Záznam, správa nahrávek, realizace webu, doc. Pinc FHS UK, 2016 ([oikumena.cz](http://oikumena.cz), [github.com/paveljurca/o](https://github.com/paveljurca/o))
 * Rozvoj předmětu Digitální knihovny, PhDr. Pinkas FIS VŠE, 2016 ([irs4116.github.io](https://irs4116.github.io))
 
-# Další vzdělávání / Learning
-
-* CCNA Cisco Certified Network Associate, 2012
-* CCNA2: Routing and Switching, 2012
-* Cisco IT Essentials: PC Hardware & Software, 2012
-* Git, Turris Omnia ([akademie.nic.cz](https://akademie.nic.cz/)), 2017
-* Web Development: Perl web framework ([Geekuni.com](https://geekuni.com/course/perl-web)), 2015
-* Startup Engineering ([startup.stanford.edu](http://startup.stanford.edu/)), 2013
-* TOEIC Listening & Reading, VŠE, 2014
-
 # Vzdělání / Education
 
 * __2008 — 2012  
@@ -74,6 +64,16 @@ Vysoká škola ekonomická v Praze, Aplikovaná informatika__
   * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
   * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/animals](https://github.com/paveljurca/animals), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
 
+# Další vzdělávání / Learning
+
+* CCNA Cisco Certified Network Associate, 2012
+* CCNA2: Routing and Switching, 2012
+* Cisco IT Essentials: PC Hardware & Software, 2012
+* Git, Turris Omnia ([akademie.nic.cz](https://akademie.nic.cz/)), 2017
+* Web Development: Perl web framework ([Geekuni.com](https://geekuni.com/course/perl-web)), 2015
+* Startup Engineering ([startup.stanford.edu](http://startup.stanford.edu/)), 2013
+* TOEIC Listening & Reading, VŠE, 2014
+
 # Ostatní / Side projects
 
-* [pavel.blog/awesome-school](http://pavel.blog/awesome-school/), [kb.pavel.blog](http://kb.pavel.blog/)
+* [pavel.blog/awesome-school](http://pavel.blog/awesome-school/), [kb.pavel.blog](http://kb.pavel.blog/), [txt.pavel.blog](http://txt.pavel.blog/)

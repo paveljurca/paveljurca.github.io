@@ -20,7 +20,7 @@ T [(+420) 607204364](tel:00420607204364)
 
 # Dovednosti / Skills
 
-Windows platforma (desktop/server), UNIX-like systémy (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim, Nagios
+Windows platforma (desktop/server), UNIX-like systémy (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim, Nagios, Docker, VDI images
 
 # Praxe / Work experience
 

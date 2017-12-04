@@ -27,7 +27,7 @@ Windows platforma (desktop/server), UNIX-like prostředí (shell, regex, mainten
 * __2016 — nyní  
 Odbor síťového provozu, Vysoká škola ekonomická v Praze__
   * Migrace a správa serverové infrastruktury Mediasite (dealing with overseas support)
-  * Návrh a vývoj pomocného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/i](https://github.com/paveljurca/i), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/fix](https://github.com/paveljurca/fix))
+  * Návrh a vývoj pomocného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/fix](https://github.com/paveljurca/fix), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/i](https://github.com/paveljurca/i))
   * Tvorba deployment skriptů
   * L2, L3 podpora (školní IS, server offload, workery, vzdálená konzole)
   * VMWare vSphere, Developer Tools, IIS URL Rewrite, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]

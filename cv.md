@@ -20,7 +20,7 @@ T [(+420) 607204364](tel:00420607204364)
 
 # Dovednosti / Skills
 
-Windows platforma (desktop/server), UNIX-like prostředí (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim, Nagios
+Windows platforma (desktop/server), UNIX-like systémy (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim, Nagios
 
 # Praxe / Work experience
 
@@ -62,7 +62,7 @@ Soukromá střední škola výpočetní techniky, Praha 9, Litvínovská 600__
 Vysoká škola ekonomická v Praze, Aplikovaná informatika__
   * Základy softwarového inženýrství ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
   * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
-  * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/animals](https://github.com/paveljurca/animals), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
+  * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
 
 # Další vzdělávání / Learning
 

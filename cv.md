@@ -18,53 +18,55 @@ T [(+420) 607204364](tel:00420607204364)
 
 *"There are no solved problems; there are only problems that are more or less solved ([Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9#Free_will))"*
 
-# Dovednosti / Skills
+# Skills
 
-Windows platforma (desktop/server), UNIX-like systémy (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim, Nagios, Docker, VDI images
+Windows platform (desktop/server), UNIX-like systems (shell, regex, maintenance), VB.NET/Java, Perl, text processing, HTTP, Apache, html/css/js, JSON/XML, Amazon AWS, Git, Vim, Nagios
 
-# Praxe / Work experience
+# Work experience
 
-* __2016 — nyní  
-Odbor síťového provozu, Vysoká škola ekonomická v Praze__
-  * Migrace a správa serverové infrastruktury Mediasite (dealing with overseas support)
-  * Návrh a vývoj pomocného SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/fix](https://github.com/paveljurca/fix), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/i](https://github.com/paveljurca/i))
-  * Tvorba deployment skriptů
-  * L2, L3 podpora (školní IS, server offload, workery, vzdálená konzole)
+* __2016 — now
+IT Department, University of Economics, Prague__
+  * Moved and maintained Mediasite video server infrastructure (and was dealing with the overseas support)
+  * Designed and developed small supporting SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/fix](https://github.com/paveljurca/fix), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/i](https://github.com/paveljurca/i))
+  * Wrote various deployment scripts
+  * L2, L3 support (school IS, server offload, workers, remote console)
   * VMWare vSphere, Developer Tools, IIS URL Rewrite, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
 
-* __2015 — nyní  
-Oddělení provozu výpočetní techniky, Vysoká škola ekonomická v Praze__
-  * Implementace rozvrhů pro informační displej ([github.com/paveljurca/t](https://github.com/paveljurca/t))
-  * Debugging software, ovladačů, aktualizací
-  * Troubleshooting webových aplikací (multisite IIS instalace, IE8 base64, jPlayer, FTP syst)
-  * Podpora zaměstnancům a studentům (konektivita, WiFi, tiskárny, aplikační prostředí, data a boot recovery)
+* __2015 — now  
+IT Department, University of Economics, Prague__
+  * Implemented timetables for a school information display ([github.com/paveljurca/t](https://github.com/paveljurca/t))
+  * Debugged software, drivers and updates
+  * Troubleshot web applications etc. (multisite IIS installation, IE8 base64, jPlayer, FTP syst)
+  * Provided advanced helpdesk (connectiviy, WiFi, various application stacks, data and boot recovery, printers)
 
 * __2014 — 2015  
-Audiovizuální centrum, Vysoká škola ekonomická v Praze__
-  * on-site podpora, diagnostika HW a SW
+IT Department, University of Economics, Prague__
+  * On-site support
+  * Identifying HW and SW issues
 
-* __2013 — 2014  
-Pomocná vědecká síla, Výpočetní centrum VŠE v Praze__
+* __2013 — 2014 (part-time)  
+IT Department, University of Economics, Prague__
+  * Basic ICT assistance to teachers and students
 
-# Projekty / Projects
+# Projects
 
-* Virtuální realita (VR) ve výuce, doc. Klán FIS VŠE, 4/2017
-* Záznam, správa nahrávek, realizace webu, doc. Pinc FHS UK, 2016 ([oikumena.cz](http://oikumena.cz), [github.com/paveljurca/o](https://github.com/paveljurca/o))
-* Rozvoj předmětu Digitální knihovny, PhDr. Pinkas FIS VŠE, 2016 ([irs4116.github.io](https://irs4116.github.io))
+* Virtual reality (VR) in teaching, doc. Klán — University of Economics, 4/2017
+* Realization of web and video lectures, doc. Pinc — Charles University, 2016 ([oikumena.cz](http://oikumena.cz), [github.com/paveljurca/o](https://github.com/paveljurca/o))
+* Digital libraries, PhDr. Pinkas — University of Economics, 2016 ([irs4116.github.io](https://irs4116.github.io))
 
-# Vzdělání / Education
+# Education
 
 * __2008 — 2012  
-Soukromá střední škola výpočetní techniky, Praha 9, Litvínovská 600__
-  * maturita (programování, počítačové sítě, grafické systémy, MSSQL)
+Secondary Private School of Information Technology, Praha 9, Litvínovská 600__
+  * school-leaving exam (programming, computer networks, graphics, MSSQL)
 
-* __2012 — 2014 (ukončeno)  
-Vysoká škola ekonomická v Praze, Aplikovaná informatika__
-  * Základy softwarového inženýrství ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
+* __2012 — 2014 (terminated)  
+University of Economics, Applied Informatics__
+  * Fundamentals of Software Engineering ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
   * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
   * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
 
-# Další vzdělávání / Learning
+# Learning
 
 * CCNA Cisco Certified Network Associate, 2012
 * CCNA2: Routing and Switching, 2012
@@ -72,8 +74,4 @@ Vysoká škola ekonomická v Praze, Aplikovaná informatika__
 * Git, Turris Omnia ([akademie.nic.cz](https://akademie.nic.cz/)), 2017
 * Web Development: Perl web framework ([Geekuni.com](https://geekuni.com/course/perl-web)), 2015
 * Startup Engineering ([startup.stanford.edu](http://startup.stanford.edu/)), 2013
-* TOEIC Listening & Reading, VŠE, 2014
-
-# Ostatní / Side projects
-
-* [pavel.blog/awesome-school](http://pavel.blog/awesome-school/), [kb.pavel.blog](http://kb.pavel.blog/), [txt.pavel.blog](http://txt.pavel.blog/)
+* TOEIC Listening & Reading, University of Economics, 2014

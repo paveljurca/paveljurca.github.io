@@ -24,13 +24,13 @@ Windows platform (desktop/server), UNIX-like systems (shell, regex, maintenance)
 
 # Work experience
 
-* __2016 — now
+* __2016 — now  
 IT Department, University of Economics, Prague__
-  * Moved and maintained Mediasite video server infrastructure (and was dealing with the overseas support)
+  * Moved and maintained Mediasite video server infrastructure (dealt with the overseas support)
   * Designed and developed small supporting SW ([github.com/paveljurca/m](https://github.com/paveljurca/m), [github.com/paveljurca/fix](https://github.com/paveljurca/fix), [github.com/paveljurca/v](https://github.com/paveljurca/v), [github.com/paveljurca/i](https://github.com/paveljurca/i))
   * Wrote various deployment scripts
-  * L2, L3 support (school IS, server offload, workers, remote console)
-  * VMWare vSphere, Developer Tools, IIS URL Rewrite, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
+  * Provided L2, L3 support (school IS, server offload, workers, remote console)
+  * Utilized VMWare vSphere, Developer Tools, IIS URL Rewrite, Mojo::DOM, cURL, PsTools, GParted, RTMPDump, FFmpeg [..]
 
 * __2015 — now  
 IT Department, University of Economics, Prague__
@@ -46,7 +46,7 @@ IT Department, University of Economics, Prague__
 
 * __2013 — 2014 (part-time)  
 IT Department, University of Economics, Prague__
-  * Basic ICT assistance to teachers and students
+  * ICT assistance to teachers and students
 
 # Projects
 

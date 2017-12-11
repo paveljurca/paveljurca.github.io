@@ -54,18 +54,6 @@ IT Department, University of Economics, Prague__
 * Realization of web and video lectures, doc. Pinc — Charles University, 2016 ([oikumena.cz](http://oikumena.cz), [github.com/paveljurca/o](https://github.com/paveljurca/o))
 * Digital libraries, PhDr. Pinkas — University of Economics, 2016 ([irs4116.github.io](https://irs4116.github.io))
 
-# Education
-
-* __2008 — 2012  
-Secondary Private School of Information Technology, Praha 9, Litvínovská 600__
-  * school-leaving exam (programming, computer networks, graphics, MSSQL)
-
-* __2012 — 2014 (terminated)  
-University of Economics, Applied Informatics__
-  * Fundamentals of Software Engineering ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
-  * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
-  * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)
-
 # Learning
 
 * CCNA Cisco Certified Network Associate, 2012
@@ -75,3 +63,15 @@ University of Economics, Applied Informatics__
 * Web Development: Perl web framework ([Geekuni.com](https://geekuni.com/course/perl-web)), 2015
 * Startup Engineering ([startup.stanford.edu](http://startup.stanford.edu/)), 2013
 * TOEIC Listening & Reading, University of Economics, 2014
+
+# Education
+
+* __2008 — 2012  
+Secondary Private School of Information Technology, Praha 9, Litvínovská 600__
+  * school-leaving exam (programming, computer networks, graphics, MSSQL)
+
+* __2012 — 2014 (terminated)  
+Applied Informatics, University of Economics, Prague__
+  * Fundamentals of Software Engineering ([github.com/paveljurca/game](https://github.com/paveljurca/game) — threads, logger, junit, jpanel)
+  * VBA for Microsoft Office & VB.NET ([github.com/paveljurca/snake](https://github.com/paveljurca/snake) — keyboard events, Forms.Control, textures)
+  * [github.com/paveljurca/kits](https://github.com/paveljurca/kits), [github.com/paveljurca/4iz110](https://github.com/paveljurca/4iz110), [github.com/paveljurca/4iz228](https://github.com/paveljurca/4iz228)

@@ -3,15 +3,18 @@ media="print"
 .markdown-body h1 {font-size: 1.3em;}
 
 Technical Support Engineer
+
+
+Oplanská 1862  
+19016&nbsp;&nbsp;Praha 9
 -->
 
 ![foto](pavel.jpg)
 
-Pavel Jurča  
-Oplanská 1862  
-19016&nbsp;&nbsp;Praha 9
+Pavel Jurca  
+Prague, CZ
 
-E [mailto@pavel.blog](mailto:mailto@pavel.blog)  
+E [pavel@pavel.blog](mailto:pavel@pavel.blog)  
 T [(+420) 607204364](tel:00420607204364)
 
 <small>[gist.github.com/paveljurca](https://gist.github.com/paveljurca/public)&nbsp;&nbsp;[stackoverflow.com/users/1824796/pavel](https://stackoverflow.com/users/1824796/pavel?tab=activity)&nbsp;&nbsp;[twitter.com/paveljurca](https://twitter.com/intent/user?screen_name=paveljurca)</small>
